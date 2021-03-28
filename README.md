@@ -1,5 +1,5 @@
 # **M**edi**OC**re **H**ome **A**utomation.
-Python server designed to run on Raspberry Pi to control DIY electronic projects.
+Python server designed to run on Raspberry Pi to control future projects.
 
 | Module Name | Function | Current Version |
 |-------------|----------|-----------------|
